@@ -1,4 +1,4 @@
-DESCRIPCION: Aplicacion de Lista de Quehaceres hecho con Vue Composition Api 
+DESCRIPCION: Aplicacion de Lista de Quehaceres hecho con Vue Composition Api, donde puedes agregar, tachar o eliminar las tareas
 
 LINK: https://juanmaynard91.github.io/vuex-composition-api-v2.github.io/
 
